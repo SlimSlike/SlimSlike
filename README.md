@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SlimSlike
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on games
 - 📫 How to reach the goal of how to become a software engineer at easy.gg
 
 <!---
